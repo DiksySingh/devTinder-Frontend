@@ -4,4 +4,9 @@
 - Install Tailwind CSS
 - Install DaisyUI
 - Try changing the theme of daisyUI
-- Add NavBar in the App.jsx
+- Add NavBar component in the App.jsx
+- Create a separate component file NavBar.jsx
+- Install react router dom
+- Create BrowserRouter > Routes > Route=/ Body > RouteChildren
+- Create an Outlet in your Body Component
+- Create a footer
